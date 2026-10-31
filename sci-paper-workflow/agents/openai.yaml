@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Paper Workflow"
+  short_description: "Evidence-led manuscript writing, revision, and review"
+  default_prompt: "Use $sci-paper-workflow to help with this manuscript section using verified literature and the evidence I provide."

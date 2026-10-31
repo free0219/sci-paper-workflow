@@ -1,0 +1,17 @@
+# Explicit publication allowlist; review actual contents before every upload.
+*
+!/.gitignore
+!/README.md
+!/sci-paper-workflow/
+/sci-paper-workflow/*
+!/sci-paper-workflow/SKILL.md
+!/sci-paper-workflow/agents/
+/sci-paper-workflow/agents/*
+!/sci-paper-workflow/agents/openai.yaml
+!/sci-paper-workflow/references/
+/sci-paper-workflow/references/*
+!/sci-paper-workflow/references/writing.md
+!/sci-paper-workflow/references/literature.md
+!/sci-paper-workflow/references/figure-data.md
+!/sci-paper-workflow/references/review.md
+!/sci-paper-workflow/references/evidence-records.md
